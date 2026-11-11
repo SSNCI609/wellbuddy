@@ -1,13 +1,11 @@
 # WellBuddy App
-Group : M
-The landing page with three linked sections.
+Group : M. The landing page with navigation to three sections.
 - Mental Health
 - Sleep
 - Healthy Habits
 
 ## WellBuddy - Mental Health Section
-Developer: Shane Smyth
-The Mental Health component of the WellBuddy wellbeing application.
+The Mental Health component of the WellBuddy wellbeing application. Developer: Shane Smyth
 ## Current Structure
 - MoodEntry: Base class for mood records.
 - StressMoodEntry: Extends MoodEntry.
@@ -22,8 +20,7 @@ The Mental Health component of the WellBuddy wellbeing application.
 - Save and load mood entries.
 
 ## WellBuddy - Sleep
-Developer: Stephen Murphy
-The Sleep monitoring component of the WellBuddy wellbeing application
+The Sleep monitoring component of the WellBuddy wellbeing application. Developer: Stephen Murphy
 ## Current Structure
 - SleepEntry: Base class for storing sleep records.
 - NightSleep: Extends SleepEntry to record nightly sleep and wake ups.
@@ -39,8 +36,7 @@ The Sleep monitoring component of the WellBuddy wellbeing application
 - Provide java swing interface with navigation between screens
   
 ## WellBuddy - Healthy Habits
-Developer: Blesson Robert
-The Healthy Habits component of the WellBuddy wellbeing application.
+The Healthy Habits component of the WellBuddy wellbeing application. Developer: Blesson Robert
 ## Current Structure
 - Habit: Class skeleton for habit records.
 - HealthyHabit: Class skeleton for healthy habits.
